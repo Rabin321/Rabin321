@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=Rabin321&color=green)
+
 ### Hi there, I'm Rabin 👋
 ## a computer enthusiast!
 - 🔭Currently working on some personal projects!
@@ -11,5 +11,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabin-shrestha-067a29166/)
 [![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=grey)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBptPTGPRTjRdpTQrDTzGNPNZKLKHgxnzxWpnMfJbqRMqxNzlHbzjQWbQvpdjSVgxlqZhxJ)
+
+![](https://komarev.com/ghpvc/?username=Rabin321&color=green)
 
 
