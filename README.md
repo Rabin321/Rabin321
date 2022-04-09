@@ -1,3 +1,5 @@
+
+![](https://komarev.com/ghpvc/?username=Rabin321&color=green)
 ### Hi there, I'm Rabin 👋
 ## a computer enthusiast!
 - 🔭Currently working on some personal projects!
