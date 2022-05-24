@@ -1,11 +1,14 @@
 
 
-### Hi there, I'm Rabin 👋
-## a computer enthusiast!
+#### Hi there, I'm Rabin 👋
+## A computer enthusiast!
 # 💫About Me :
 🔭Currently working on some personal projects!
+
 🌱 I’m currently learning Mobile App Development.
+
 🥅 2022 Goals: Learn new technologies.
+
 👯 I’m looking to collaborate on with other developers.
 
 ## 🌐Socials
