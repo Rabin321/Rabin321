@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Mobile App Development.
 
-🥅 2022 Goals: Learn new technologies.
+🥅 2023 Goals: Learn new technologies.
 
 👯 I’m looking to collaborate on with other developers.
 
