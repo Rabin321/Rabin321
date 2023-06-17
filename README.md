@@ -3,13 +3,11 @@
 ## Hi there, I'm Rabin 👋
 ### A computer enthusiast!
 # 💫About Me :
-🔭Currently working on some personal projects!
-
-🌱 I’m currently learning Mobile App Development.
+🔭Currently working on Mobile Apps.
 
 🥅 2023 Goals: Learn new technologies.
 
-👯 I’m looking to collaborate on with other developers.
+👯 I’m looking to collaborate with other developers.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabin-shrestha-067a29166/) 
