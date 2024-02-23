@@ -5,7 +5,7 @@
 # 💫About Me :
 🔭Currently working on Mobile Apps.
 
-🥅 2023 Goals: Learn new technologies.
+🥅 2024 Goals: Learn new technologies.
 
 👯 I’m looking to collaborate with other developers.
 
