@@ -14,7 +14,7 @@
 🤖 Cybersecurity, AI & ML applications and research
 📑 Technical research & innovation 
 
-#📫 Let's connect!
+# 📫 Let's connect!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabin-shrestha-067a29166/) 
