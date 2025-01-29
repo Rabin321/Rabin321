@@ -1,13 +1,20 @@
 
 
 ## Hi there, I'm Rabin 👋
-### A computer enthusiast!
+### A passionate computer enthusiast who loves exploring new technologies.
+
 # 💫About Me :
-🔭Currently working on Mobile Apps.
+🔭 Currently working on Mobile Apps using Flutter.
+🤖 Exploring Machine Learning & Artificial Intelligence.
+🛡️ Interested in Cybersecurity.
+📚 Passionate about Research and Problem-solving.
 
-🥅 2024 Goals: Learn new technologies.
+# 🤝 Looking to collaborate on:
+📱 Flutter projects 
+🤖 Cybersecurity, AI & ML applications and research
+📑 Technical research & innovation 
 
-👯 I’m looking to collaborate with other developers.
+#📫 Let's connect!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabin-shrestha-067a29166/) 
