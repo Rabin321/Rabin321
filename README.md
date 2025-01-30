@@ -4,15 +4,15 @@
 ### A passionate computer enthusiast who loves exploring new technologies.
 
 # 💫About Me :
-🔭 Currently working on Mobile Apps using Flutter.
-🤖 Exploring Machine Learning & Artificial Intelligence.
-🛡️ Interested in Cybersecurity.
-📚 Passionate about Research and Problem-solving.
+🔭 Currently working on Mobile Apps using Flutter.\
+🤖 Exploring Machine Learning & Artificial Intelligence.\
+🛡️ Interested in Cybersecurity.\
+📚 Passionate about Research and Problem-solving.\
 
 # 🤝 Looking to collaborate on:
-📱 Flutter projects 
-🤖 Cybersecurity, AI & ML applications and research
-📑 Technical research & innovation 
+📱 Flutter projects\
+🤖 Cybersecurity, AI & ML applications and research\
+📑 Technical research & innovation\
 
 # 📫 Let's connect!
 
